@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1543901186 source:d:\µÚÆßµ¥Ôªc++\no.7.32\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
