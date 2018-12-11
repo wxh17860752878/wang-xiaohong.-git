@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544531621 source:d:\第九单元c++\no.9.9\src\dateandtime.cpp
+	<iostream>
+	"DateAndTime.h"
+
+1544531621 d:\第九单元c++\no.9.9\include\dateandtime.h
+
