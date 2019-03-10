@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1552198628 source:c:\users\lenovo\desktop\æÿ’Û\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1552198414 c:\users\lenovo\desktop\æÿ’Û\include\matrix.h
+	<iostream>
+	<string>
+
+1552198591 source:c:\users\lenovo\desktop\æÿ’Û\src\matrix.cpp
+	<iomanip>
+	"Matrix.h"
+
