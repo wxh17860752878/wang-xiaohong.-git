@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1552211355 source:f:\矩阵相加\main.cpp
+	<iostream>
+	"Matrix.h"
+
+1552211325 f:\矩阵相加\include\matrix.h
+	<iostream>
+	<string>
+
