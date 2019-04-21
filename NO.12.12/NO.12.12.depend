@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1555844897 source:e:\no.12.12\src\commissionemployee.cpp
+	<iostream>
+	"CommissionEmployee.h"
+
+1555844897 e:\no.12.12\include\commissionemployee.h
+	"Employee.h"
+
+1555845024 e:\no.12.12\include\employee.h
+	<string>
+	"Date.h"
+
+1555844897 e:\no.12.12\include\date.h
+	<iostream>
+
+1555844897 source:e:\no.12.12\src\date.cpp
+	<iostream>
+	"Date.h"
+
+1555845068 source:e:\no.12.12\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<typeinfo>
+	<ctime>
+	"Employee.h"
+	"SalariedEmployee.h"
+	"HourlyEmployee.h"
+	"CommissionEmployee.h"
+	"BasePlusCommissionEmployee.h"
+
+1555844897 e:\no.12.12\include\salariedemployee.h
+	"Employee.h"
+
+1555844897 e:\no.12.12\include\hourlyemployee.h
+	"Employee.h"
+
+1555845200 e:\no.12.12\include\basepluscommissionemployee.h
+	"CommissionEmployee.h"
+
+1555845200 source:e:\no.12.12\src\basepluscommissionemployee.cpp
+	<iostream>
+	"BasePlusCommissionEmployee.h"
+
